@@ -1,0 +1,13 @@
+File Konfigurasi Otomatis
+​eula.txt
+server.properties
+config_ram.txt
+​File Server Minecraft
+​paper.jar
+logs/
+world/
+world_nether/
+world_the_end/
+plugins/*/config.yml # Abaikan konfigurasi plugin yang dihasilkan
+​File Sesi Termux & Ngrok
+​ngrok.log
